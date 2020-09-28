@@ -1,3 +1,6 @@
+# Owner
+Perry Moerland
+
 # Hierarchical visualization of single-cell RNA-seq data
 
 This repository contains code, results and literature for the MSc project of Tobias Beers. 
