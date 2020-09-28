@@ -1,7 +1,7 @@
 # Hierarchical visualization of single-cell RNA-seq data
 
-This repository contains my thesis, along with 
-the relevant code used for it. 
+This repository contains code, results and literature for the MSc project of Tobias Beers. 
 
-The thesis itself and the corresponding presentation slides are in './Thesis'.
-The code used for this project can be found in './Code'.
+Directory structure:
+   * *Code*: both TensorFlow Probability (a little) and PyStan (a lot) have been used as environments for this project. This directory contains the relevant code for this project.
+   * *Thesis*: contains the thesis and the corresponding presentation slides.
